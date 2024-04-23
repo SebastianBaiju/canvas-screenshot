@@ -13,7 +13,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-## Running testurl
+## Testurl
 https://sebastianbaiju.github.io/canvas-screenshot/
 
 ## Running end-to-end tests
